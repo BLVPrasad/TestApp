@@ -17,7 +17,7 @@ public class AppTest extends TestCase
     public AppTest( String testName )
     {
     	super( testName );
-        System.out.println("================= changes done inside AppTest class========================================");
+        System.out.println("=================second  changes done inside AppTest class========================================");
     }
 
     /**
